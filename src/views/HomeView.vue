@@ -741,7 +741,7 @@ button a{
   font-weight: 300 !important;
 }
 #profiles h6{
-  font-weight: 200;
+  font-weight: 700;
   color: #2590f4;
   line-height: 1%;
 
